@@ -3,7 +3,6 @@
 - 🔭 Trabalho atualmente como Agente de Endemias 
 - 🎓 Cursando Sistemas de Informação 
 - 🌱 Estudando Montagem e Manutenção de Computadores
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/andrenunnes">
